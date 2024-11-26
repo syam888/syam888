@@ -1,9 +1,7 @@
-<h1 align="center">Hi, I'm Gana Syam Reddy Mandepudi</h1>
+<h1 align="center">Gana Syam Reddy Mandepudi</h1>
 <h3 align="center">DevOps Engineer | Data Analyst</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=syam888&label=Profile%20views&color=0e75b6&style=flat" alt="syam888" /> </p>
-
-- 📫 How to reach me **ganasyam@buffalo.edu**
+- 📫 How to reach me **(https://www.linkedin.com/jobs/search/?currentJobId=4084078789&f_E=2&f_TPR=r86400&geoId=103644278&keywords=amazon&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
