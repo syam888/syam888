@@ -1,7 +1,6 @@
 <h1 align="center">Gana Syam Reddy Mandepudi</h1>
 <h3 align="center">DevOps Engineer | Data Analyst</h3>
 
-- 📫 How to reach me **(https://www.linkedin.com/jobs/search/?currentJobId=4084078789&f_E=2&f_TPR=r86400&geoId=103644278&keywords=amazon&origin=JOB_SEARCH_PAGE_JOB_FILTER&refresh=true)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
