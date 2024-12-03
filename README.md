@@ -1,8 +1,6 @@
 <h1 align="center">Gana Syam Reddy Mandepudi</h1>
 <h3 align="center">DevOps Engineer | Data Analyst</h3>
 
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.hackerrank.com/syam888" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="syam888" height="30" width="40" /></a>
 </p>
